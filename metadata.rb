@@ -1,6 +1,6 @@
 name 'nagioslogserver'
 maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer_email 'imankurniawan@gmail.com'
 license 'all_rights'
 description 'Installs/Configures nagioslogserver'
 long_description 'Installs/Configures nagioslogserver'
